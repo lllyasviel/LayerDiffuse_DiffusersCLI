@@ -2,7 +2,7 @@
 
 This repo is an official implementation of LayerDiffuse in pure diffusers without any GUI for easier development for different projects.
 
-Note that this repo directly use k-diffusion to sample images (diffusers' scheduling system is not used) and one can expect SOTA sampling results directly in this repo without relying on other UIs.
+Note that this repo directly uses k-diffusion to sample images (diffusers' scheduling system is not used) and one can expect SOTA sampling results directly in this repo without relying on other UIs.
 
 Note that this project is a Work In Progress (WIP). We are going to port all features of LayerDiffuse (see also [sd-forge-layerdiffuse](https://github.com/layerdiffusion/sd-forge-layerdiffuse)).
 
