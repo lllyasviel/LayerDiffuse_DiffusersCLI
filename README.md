@@ -65,7 +65,7 @@ Prompt: "a handsome man with curly hair, high quality"
 
 Denoise: 0.7
 
-| Input                              | Output (Transparent image)                 | Output (Visualization with Checkerboard)     |
+| Input (Transparent image)          | Output (Transparent image)                 | Output (Visualization with Checkerboard)     |
 |------------------------------------|--------------------------------------------|----------------------------------------------|
 | ![img](imgs/inputs/causal_cut.png) | ![img](imgs/outputs/i2i_0_transparent.png) | ![img](imgs/outputs/i2i_0_visualization.png) |
 
