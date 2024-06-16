@@ -27,7 +27,7 @@ Below features are finished.
 
 ### RGB Padding
 
-The algorithm to convert a transparent PNG image to a "padded" image with all invisible pixels filled with smooth, continues colors.
+The algorithm to convert a transparent PNG image to a "padded" image with all invisible pixels filled with smooth, continuous colors.
 
 This padded RGB format is used for the training of all LayerDiffuse models.
 
